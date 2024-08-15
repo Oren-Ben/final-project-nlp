@@ -32,3 +32,16 @@ PoolingMode.MAX
 dbert_cp
 LossType.MNLR
 PoolingMode.CLS
+
+{'dbert_cp_LossType.MNLR_PoolingMode.CLS': 
+{'sts-test_pearson_cosine': 0.7231696006204614,
+  'sts-test_spearman_cosine': 0.7159807577330886,
+  'sts-test_pearson_manhattan': 0.7304954503529905,
+  'sts-test_spearman_manhattan': 0.7220773080249778,
+  'sts-test_pearson_euclidean': 0.7303775626174419,
+  'sts-test_spearman_euclidean': 0.7222231533577252,
+  'sts-test_pearson_dot': 0.7001618417693185,
+  'sts-test_spearman_dot': 0.6917431241233098,
+  'sts-test_pearson_max': 0.7304954503529905,
+  'sts-test_spearman_max': 0.7222231533577252}
+  }
