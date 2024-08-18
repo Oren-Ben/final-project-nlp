@@ -1,0 +1,38 @@
+{
+    "mbert_cp_LossType.MNLR_PoolingMode.MEAN": {
+        "sts-test_pearson_cosine": 0.6610958101632113,
+        "sts-test_spearman_cosine": 0.651550766326876,
+        "sts-test_pearson_manhattan": 0.6229293741381915,
+        "sts-test_spearman_manhattan": 0.6186680822530494,
+        "sts-test_pearson_euclidean": 0.6223815765711516,
+        "sts-test_spearman_euclidean": 0.618247284036326,
+        "sts-test_pearson_dot": 0.5801763185456094,
+        "sts-test_spearman_dot": 0.5864433986759179,
+        "sts-test_pearson_max": 0.6610958101632113,
+        "sts-test_spearman_max": 0.651550766326876
+    },
+    "mbert_cp_LossType.MNLR_PoolingMode.MAX": {
+        "sts-test_pearson_cosine": 0.6425454859972503,
+        "sts-test_spearman_cosine": 0.6330322119353036,
+        "sts-test_pearson_manhattan": 0.6161273532447656,
+        "sts-test_spearman_manhattan": 0.6098623933101578,
+        "sts-test_pearson_euclidean": 0.6156188805233304,
+        "sts-test_spearman_euclidean": 0.6097047370266178,
+        "sts-test_pearson_dot": 0.5521839759095036,
+        "sts-test_spearman_dot": 0.541801878337445,
+        "sts-test_pearson_max": 0.6425454859972503,
+        "sts-test_spearman_max": 0.6330322119353036
+    },
+    "mbert_cp_LossType.MNLR_PoolingMode.CLS": {
+        "sts-test_pearson_cosine": 0.6544057780446004,
+        "sts-test_spearman_cosine": 0.6471754287761012,
+        "sts-test_pearson_manhattan": 0.6301470489011952,
+        "sts-test_spearman_manhattan": 0.6280318745313014,
+        "sts-test_pearson_euclidean": 0.6301546022106005,
+        "sts-test_spearman_euclidean": 0.6278265553061768,
+        "sts-test_pearson_dot": 0.6160852116256412,
+        "sts-test_spearman_dot": 0.6100880629611302,
+        "sts-test_pearson_max": 0.6544057780446004,
+        "sts-test_spearman_max": 0.6471754287761012
+    }
+}
